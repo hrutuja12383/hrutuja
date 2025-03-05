@@ -3,3 +3,6 @@ hello git
 modify
 how are you
 new data
+dogs
+cat
+good
